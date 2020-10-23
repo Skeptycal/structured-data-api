@@ -25,7 +25,7 @@
     "json-markup": "^0.1.7",
     "json-schema-ref-parser": "^3.1.2",
     "json-schema-to-mongoose": "git://github.com/glitchdigital/json-schema-to-mongoose.git",
-    "mongoose": "^4.4.7",
+    "mongoose": "^5.10.10",
     "mongoose-schema-extend": "0.2.0",
     "npm": "^3.8.1",
     "pascalcase": "^0.1.1",
